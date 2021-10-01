@@ -6,7 +6,7 @@ body {
 }
 
 textarea{
-  background: linear-gradient(rgb(31, 90, 90));
+  background: linear-gradient(rgb(10, 19, 19));
   border: none;
   resize: none;
   color: #0f0f0f;
@@ -45,7 +45,7 @@ textarea{
 }
 
 .past {
-  background-color: #615c5c;
+  background-color: #4e4a4a;
   color: white;
 }
 
