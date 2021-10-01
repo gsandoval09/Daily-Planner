@@ -5,12 +5,13 @@ body {
 }
 
 textarea{
-  background: linear-gradient(teal);
+  background: linear-gradient(rgb(31, 90, 90));
   border: none;
   resize: none;
-  color: #991111;
-  border-left: 1px solid rgb(17, 28, 173);
+  color: #0f0f0f;
+  border-left: 1px solid rgb(1, 2, 12);
   padding: 10px;
+  text-align: center;
 }
 
 .jumbotron {
